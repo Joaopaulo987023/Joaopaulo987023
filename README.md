@@ -19,7 +19,7 @@
   <img align="center" alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div>
 
-[]
+
 <br/>
 Estudar e praticar, O sucesso é o acúmulo de pequenos esforços, repetidos dia a dia.
 
